@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/GiriPrasath017/GiriPrasath017/Files/MG1.gif" alt="😉" width="700px">
-</div
+  <img src="https://raw.githubusercontent.com/GiriPrasath017/GiriPrasath017/main/Files/GI1.png" alt="😉" width="500px" height="500px">
+</div>
 
 ## 💻 Tech Stack:
 
